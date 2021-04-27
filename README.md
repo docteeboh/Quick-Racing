@@ -1,5 +1,9 @@
 # Quick Racing
 
+Simple print & play racing game for:
+- 5 years old and older
+- 2 players and more
+
 ### Material
 
 - Get a D6 die.
