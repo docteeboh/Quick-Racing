@@ -2,7 +2,7 @@
 
 ### Overview
 
-Simple print & play racing game for 5 years old kids and older and 2 players and more.
+Simple print & play racing game for 5 years old kids (and older) and 2 players and more.
 
 ### Material
 
