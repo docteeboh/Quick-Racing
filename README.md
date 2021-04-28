@@ -2,7 +2,11 @@
 
 ### Overview
 
-Simple print & play racing game for two players or more, starting from five years old.
+Simple and free racing game.
+
+Age: 5+
+
+Players: 2+
 
 ### Material
 
@@ -17,4 +21,4 @@ Simple print & play racing game for two players or more, starting from five year
 
 ### Rules
 
-Roll the die. If you get a 6 re-roll until you get a different result. Once you have a number between 1 and 5 , decide to move your character the amount you got or roll again to try to go farther. Continue this process until you decide to stop or until you get a 6. If you decide to stop, move your character the same amount of squares/centimeters as the sum of the rolls. If you got a 6, move your character the same amount as the number of times you rolled the die (excluding initial re-roll(s) caused by an early 6).
+Roll the die. If you get a 6 re-roll until you get a different number. Once you have a number between 1 and 5, decide to move your character the amount you got or roll again to try to go farther. Continue this process until you decide to stop or until you get a 6. If you decide to stop, move your character the same amount of squares/centimeters as the sum of all rolls. If you get a 6, move your character the number of times you rolled the die (excluding initial re-roll(s) caused by an early 6).
